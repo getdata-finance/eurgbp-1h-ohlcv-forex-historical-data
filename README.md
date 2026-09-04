@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `EURGBP_1h.csv` (925 rows, `2026-07-09` -> `2026-09-02`, 94.86 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **88,746** `1h` rows (full `1m`: 5,322,882), **11 timeframes**, `2012-05-23` -> `2026-09-02`.
+> **Sample on GitHub** · `EURGBP_1h.csv` (924 rows, `2026-07-09` -> `2026-09-02`, 94.75 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **88,746** `1h` rows (full `1m`: 5,322,800), **11 timeframes**, `2012-05-23` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Euro / British Pound · Forex | Euro / British Pound · Forex |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 925 | **88,746** |
-| Size | 94.86 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
+| 1h rows | 924 | **88,746** |
+| Size | 94.75 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
 | Period | `2026-07-09` -> `2026-09-02` | `2012-05-23` -> `2026-09-02` |
 | File | `EURGBP_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
 | Coverage report | — | [EURGBP coverage](https://getdata.finance/coverage/eurgbp) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`EURGBP_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T14:00:00+00:00 | 0.84948 | 0.85 | 0.84934 | 0.84967 | 11319 |
 | 2026-07-09T15:00:00+00:00 | 0.84967 | 0.84976 | 0.84903 | 0.84909 | 9029 |
 | 2026-07-09T16:00:00+00:00 | 0.84909 | 0.8492 | 0.84873 | 0.84876 | 6901 |
 | 2026-07-09T17:00:00+00:00 | 0.84876 | 0.84885 | 0.8484 | 0.84841 | 6635 |
 | 2026-07-09T18:00:00+00:00 | 0.84841 | 0.84844 | 0.84803 | 0.84815 | 5707 |
+| 2026-07-09T19:00:00+00:00 | 0.84815 | 0.84837 | 0.848 | 0.84823 | 6171 |
 
 **Last rows**
 
