@@ -1,6 +1,6 @@
 # EURGBP 1h OHLCV Forex Historical Data — Free Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-88_746_rows-blue)](https://getdata.finance/datasets/eurgbp) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/eurgbp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-88_866_rows-blue)](https://getdata.finance/datasets/eurgbp) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/eurgbp)
 
 ### -> [**Download the full EURGBP dataset on getdata.finance**](https://getdata.finance/datasets/eurgbp)
 
@@ -23,11 +23,11 @@
 
 - **Ultra high-quality 1h OHLCV** for **Euro / British Pound** (Forex)
 - **Clean CSV schema** — `datetime, open, high, low, close, volume` (no gaps in formatting)
-- **Free evaluation sample** on GitHub (`1h`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/eurgbp) · **88,746** `1h` rows in the full archive
+- **Free evaluation sample** on GitHub (`1h`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/eurgbp) · **88,866** `1h` rows in the full archive
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `EURGBP_1h.csv` (924 rows, `2026-07-09` -> `2026-09-02`, 94.75 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **88,746** `1h` rows (full `1m`: 5,322,800), **11 timeframes**, `2012-05-23` -> `2026-09-02`.
+> **Sample on GitHub** · `EURGBP_1h.csv` (3,128 rows, `2026-03-10` -> `2026-09-09`, 310.56 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **88,866** `1h` rows (full `1m`: 5,322,800), **11 timeframes**, `2012-05-23` -> `2026-09-09`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Euro / British Pound · Forex | Euro / British Pound · Forex |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 924 | **88,746** |
-| Size | 94.75 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
-| Period | `2026-07-09` -> `2026-09-02` | `2012-05-23` -> `2026-09-02` |
+| 1h rows | 3,128 | **88,866** |
+| Size | 310.56 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
+| Period | `2026-03-10` -> `2026-09-09` | `2012-05-23` -> `2026-09-09` |
 | File | `EURGBP_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
 | Coverage report | — | [EURGBP coverage](https://getdata.finance/coverage/eurgbp) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,21 +75,21 @@ First and latest rows from the GitHub sample **`EURGBP_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T15:00:00+00:00 | 0.84967 | 0.84976 | 0.84903 | 0.84909 | 9029 |
-| 2026-07-09T16:00:00+00:00 | 0.84909 | 0.8492 | 0.84873 | 0.84876 | 6901 |
-| 2026-07-09T17:00:00+00:00 | 0.84876 | 0.84885 | 0.8484 | 0.84841 | 6635 |
-| 2026-07-09T18:00:00+00:00 | 0.84841 | 0.84844 | 0.84803 | 0.84815 | 5707 |
-| 2026-07-09T19:00:00+00:00 | 0.84815 | 0.84837 | 0.848 | 0.84823 | 6171 |
+| 2026-03-10T19:00:00+00:00 | 0.86391 | 0.86396 | 0.86357 | 0.86378 | 15061 |
+| 2026-03-10T20:00:00+00:00 | 0.86378 | 0.86385 | 0.86281 | 0.86352 | 5750 |
+| 2026-03-10T21:00:00+00:00 | 0.86352 | 0.86352 | 0.86276 | 0.86337 | 4210 |
+| 2026-03-10T22:00:00+00:00 | 0.86337 | 0.86378 | 0.86331 | 0.86345 | 1752 |
+| 2026-03-10T23:00:00+00:00 | 0.86345 | 0.8636 | 0.86342 | 0.86351 | 2099 |
 
 **Last rows**
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-01T22:00:00+00:00 | 0.85739 | 0.85781 | 0.85736 | 0.85771 | 2019 |
-| 2026-09-01T23:00:00+00:00 | 0.85771 | 0.85779 | 0.85765 | 0.8577 | 1317 |
-| 2026-09-02T00:00:00+00:00 | 0.8577 | 0.85775 | 0.85752 | 0.85757 | 5698 |
-| 2026-09-02T01:00:00+00:00 | 0.85757 | 0.85765 | 0.85729 | 0.85737 | 5274 |
-| 2026-09-02T02:00:00+00:00 | 0.85737 | 0.8574 | 0.85736 | 0.85739 | 93 |
+| 2026-09-08T22:00:00+00:00 | 0.8587 | 0.85875 | 0.85849 | 0.85853 | 1190 |
+| 2026-09-08T23:00:00+00:00 | 0.85853 | 0.85863 | 0.85848 | 0.85852 | 1922 |
+| 2026-09-09T00:00:00+00:00 | 0.85852 | 0.8587 | 0.85851 | 0.85858 | 4667 |
+| 2026-09-09T01:00:00+00:00 | 0.85858 | 0.85871 | 0.85854 | 0.85863 | 4261 |
+| 2026-09-09T02:00:00+00:00 | 0.85863 | 0.85865 | 0.85863 | 0.85865 | 48 |
 
 ## Schema
 
@@ -154,7 +154,7 @@ print(pf.stats())
 
 ## Download full data
 
-The complete **EURGBP** archive on **[getdata.finance](https://getdata.finance/datasets/eurgbp)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **88,746** rows at `1h`, plus all other timeframes in the same ZIP.
+The complete **EURGBP** archive on **[getdata.finance](https://getdata.finance/datasets/eurgbp)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **88,866** rows at `1h`, plus all other timeframes in the same ZIP.
 
 **[-> Get the full EURGBP dataset on getdata.finance](https://getdata.finance/datasets/eurgbp)**
 
